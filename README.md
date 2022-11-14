@@ -4,7 +4,7 @@ This repository refers to the three challenges from the course [Artificial Neura
 The repository has three subfolders which contain the notebooks related to each challenge and you can navigate through them to find the details about each project: 
 - Image Classification 
 - Image Segmentation
-- Visual Question Answering)
+- Visual Question Answering
 
 
 ### :speech_balloon: Authors  
